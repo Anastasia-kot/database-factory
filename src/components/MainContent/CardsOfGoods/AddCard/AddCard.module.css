@@ -1,0 +1,49 @@
+.mainContent{
+    width: 100%;
+    padding-bottom: 50px;
+}
+ 
+.inputWrapper{
+    margin: 0 auto 40px auto;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .spanLabel{
+    height: min-content;
+    width: 200px;
+    border: none; 
+}
+.searchInput{
+    margin: 0 20px;
+    border-radius: 5px;
+ }
+
+.searchButton{
+     padding: 0 5px;
+        border: 1px solid #391400;
+        border-radius: 5px;
+        font: inherit;
+        color: inherit;
+        /* background-color: transparent; */
+        opacity: 0.6;
+        transition: 0.3s;
+}
+
+.searchButton:hover {
+    opacity: 1
+}
+.searchButton:active {
+    opacity: 1;
+    background-color:aliceblue
+}
+
+
+th{
+    width: 100%;
+    padding: 0 20px;
+}

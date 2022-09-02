@@ -1,0 +1,23 @@
+.mainContent{
+    width: 100%;
+    padding-bottom: 50px;
+}
+.cardsList {
+    max-width: 1600px;
+    margin: 0 auto;
+    width: min-content;
+
+}
+    
+
+th{
+    width: 100%;
+    padding: 0 20px;
+}
+th:first-child{
+    max-width: 100px;
+}
+
+table{
+    margin-bottom: 40px;
+}

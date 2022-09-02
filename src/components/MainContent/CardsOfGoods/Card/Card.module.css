@@ -1,0 +1,10 @@
+.cell{
+  padding: 0 20px;
+  min-width: 100px;
+    width: 100%;
+      padding: 0 20px;
+}
+
+.trashBucket {
+  border: none;
+}

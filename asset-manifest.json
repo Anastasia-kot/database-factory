@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/database-factory/static/css/main.7c552453.css",
+    "main.js": "/database-factory/static/js/main.70a4fe04.js",
+    "static/js/787.28cb0dcd.chunk.js": "/database-factory/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/database-factory/index.html",
+    "main.7c552453.css.map": "/database-factory/static/css/main.7c552453.css.map",
+    "main.70a4fe04.js.map": "/database-factory/static/js/main.70a4fe04.js.map",
+    "787.28cb0dcd.chunk.js.map": "/database-factory/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c552453.css",
+    "static/js/main.70a4fe04.js"
+  ]
+}
